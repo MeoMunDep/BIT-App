@@ -3,5 +3,6 @@
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
-  "isPlayingGames": true
+  "isPlayingGames": true,
+  "isSkipInvalidProxy": true
 }
