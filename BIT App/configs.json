@@ -4,5 +4,6 @@
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
   "isPlayingGames": true,
-  "isSkipInvalidProxy": true
+  "isSkipInvalidProxy": true,
+  "delayEachAccount": [1, 81]
 }
